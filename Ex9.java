@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class novoSalario {
+public class Ex9 {
     public static void main (String [] x){
         double salarioAtual, percReajuste, salarioRecal;
 

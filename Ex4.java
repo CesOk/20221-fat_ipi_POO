@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Antec_Int {
+public class Ex4 {
     public static void main (String [] x){
         int num_atual, num_antc;
 

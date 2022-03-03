@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class votosEleitores {
+public class Ex8 {
     public static void main(String [] x){
         int vTotal, vNulo, vValido, vBranco;
         double percNulo, percValido, percBranco;

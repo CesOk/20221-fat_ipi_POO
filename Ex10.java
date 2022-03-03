@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Cust_CarroNovo {
+public class Ex10 {
     public static void main (String [] x){
         double CustFbr, CustDtr, CustImp, CustFinal;
 

@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Area_Rtg {
+public class Ex5 {
     public static void main (String [] x){
         double base, altura, area;
 

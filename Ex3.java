@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Comissao {
+public class Ex3 {
     public static void main (String [] x){
         double pgmt, preco_unit;
         int qt_vend;

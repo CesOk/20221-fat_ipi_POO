@@ -1,6 +1,7 @@
 import javax.swing.JOptionPane;
-public class Dolar {
+public class Ex1 {
     public static void main (String [] x){
+        //Exercício 1
         double Dol, Real;
         int Qt_Dol;
 

@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Salar_Vendedor {
+public class Ex11 {
     public static void main (String [] x){
         int carroVendido;
         double salarioFinal, totalVendaCarro, salarioFixo, comissaoFixa;

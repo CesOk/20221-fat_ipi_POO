@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Ler4 {
+public class Ex2 {
     public static void main (String [] x){
         int n1, n2, n3, n4, res;
 
