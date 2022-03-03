@@ -4,13 +4,13 @@ public class Comissao {
         double pgmt, preco_unit;
         int qt_vend;
 
-        preco_unit = Double.parseDouble(JOptionPane.showInputDialog("Declare o valor unitário da peça vendida:"));
-        qt_vend = Integer.parseInt(JOptionPane.showInputDialog("Declare a quantidade de peças vendidas:"));
+        preco_unit = Double.parseDouble(JOptionPane.showInputDialog("Declare o valor unitario da peca vendida:"));
+        qt_vend = Integer.parseInt(JOptionPane.showInputDialog("Declare a quantidade de pecas vendidas:"));
 
         pgmt = preco_unit * qt_vend;
 
         String s = String.format(
-            "A comissão a ser paga para o vendedor é de %.2fR$",
+            "A comissao a ser paga para o vendedor e de %.2fR$",
             pgmt
         );
 
